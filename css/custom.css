@@ -1,0 +1,23 @@
+.card-subtitle-wrapper {
+  max-width: 17rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.carousel .carousel-control-prev,
+.carousel .carousel-control-next {
+  width: 15px;
+  height: 15px;
+  background-color: none;
+  top: 95px;
+  opacity: .8;
+}
+
+.carousel-item {
+  height: 120px;
+}
+
+.carousel-indicators {
+  bottom: -10px;
+}
